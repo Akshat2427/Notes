@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "OOPS"
             }
+          },
+          {
+            "id": "eeff979a1f2681b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Java/OOPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOPS"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +204,10 @@
   },
   "active": "6c6ab54ca69b3317",
   "lastOpenFiles": [
-    "DSA/Sorting.md",
     "Languages/C++/OOPS.md",
+    "Languages/Java/OOPS.md",
+    "Untitled",
+    "DSA/Sorting.md",
     "Languages",
     "WebDev/JavaScript",
     "WebDev/HTML-CSS",
@@ -202,7 +218,6 @@
     "WebDev/Docker",
     "WebDev/Redis",
     "WebDev/React",
-    "WebDev/Express-Node",
     "DSA/Searching.md",
     "Welcome.md"
   ]
