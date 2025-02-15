@@ -58,3 +58,12 @@ cd my-project
 
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
